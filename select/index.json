@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "君の神話～アクエリオン第二章",
+  "base_artist": "AKINO with bless4",
+  "createdAt": "2026-02-19T06:29:44.972616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の神話~アクエリオン第二章",
+      "artist": "AKINO with bless4",
+      "has_synced": true,
+      "path": "select/01_君の神話~アクエリオン第二章_AKINO_with_bless4.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の神話 ～ アクエリオン第二章",
+      "artist": "AKINO with bless4",
+      "has_synced": false,
+      "path": "select/02_君の神話_~_アクエリオン第二章_AKINO_with_bless4.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の神話～アクエリオン第二章",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/03_君の神話~アクエリオン第二章_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君の神話～アクエリオン第二章",
+      "artist": "AKINO with bless4",
+      "has_synced": true,
+      "path": "select/04_君の神話~アクエリオン第二章_AKINO_with_bless4.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君の神話～アクエリオン第二章",
+      "artist": "AKINO with bless4",
+      "has_synced": true,
+      "path": "select/05_君の神話~アクエリオン第二章_AKINO_with_bless4.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君の神話～アクエリオン第二章",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/06_君の神話~アクエリオン第二章_AKINO.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君の神話 〜 アクエリオン第二章",
+      "artist": "Machico",
+      "has_synced": false,
+      "path": "select/07_君の神話_〜_アクエリオン第二章_Machico.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君の神話 〜アクエリオン第二章",
+      "artist": "AKINO with bless4",
+      "has_synced": true,
+      "path": "select/08_君の神話_〜アクエリオン第二章_AKINO_with_bless4.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君の神話～アクエリオン第二章",
+      "artist": "AKINO & AIKI",
+      "has_synced": false,
+      "path": "select/09_君の神話~アクエリオン第二章_AKINO_&_AIKI.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君の神話〜アクエリオン第二章",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/10_君の神話〜アクエリオン第二章_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君の神話 〜アクエリオン第二章 instrumental",
+      "artist": "AKINO with bless4",
+      "has_synced": true,
+      "path": "select/11_君の神話_〜アクエリオン第二章_instrumental_AKINO_with_bless4.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "君の神話 〜アクエリオン第二章 instrumental",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/12_君の神話_〜アクエリオン第二章_instrumental_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "君の神話～アクエリオン第二章",
+      "artist": "AKINO with bless4",
+      "has_synced": false,
+      "path": "select/13_君の神話~アクエリオン第二章_AKINO_with_bless4.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の神話～アクエリオン第二章",
+      "artist": "AKINO with bless4",
+      "has_synced": false,
+      "path": "select/pl_01_君の神話~アクエリオン第二章_AKINO_with_bless4.txt"
+    }
+  ]
+}
